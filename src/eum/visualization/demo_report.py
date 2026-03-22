@@ -1,0 +1,1 @@
+"""Demo report assembly placeholder."""

@@ -1,0 +1,1 @@
+"""Candidate miner package."""
