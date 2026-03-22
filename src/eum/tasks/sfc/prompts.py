@@ -1,0 +1,1 @@
+"""SFC prompts placeholder."""

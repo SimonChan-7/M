@@ -1,0 +1,1 @@
+"""SFC ontology mapping placeholder."""

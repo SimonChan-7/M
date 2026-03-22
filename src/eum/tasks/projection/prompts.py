@@ -1,0 +1,1 @@
+"""Projection prompts placeholder."""

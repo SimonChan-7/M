@@ -1,0 +1,1 @@
+"""Shared label definitions placeholder."""
